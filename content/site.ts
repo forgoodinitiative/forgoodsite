@@ -128,12 +128,13 @@ export const team: { name: string; role?: string }[] = [
   { name: "Bardya Nasirian" },
   { name: "Felix Kongyuy" },
   { name: "Nathan Omana" },
+  { name: "Krish Kaushik" },
 ];
 
 export const faqs = [
   { q: "Is it actually free?", a: "Yes. We do not charge for design, development or handoff. If your project needs a paid domain or hosting, we keep that cost low and tell you before we start." },
   { q: "Do you only work with non-profits?", a: "No. We work with local non-profits and small businesses. If your organization needs software and cannot justify paying an agency, get in touch." },
-  { q: "Who does the work?", a: "Four SFU students: Armin, Bardya, Felix and Nathan. The people on your first call are the people who build it." },
+  { q: "Who does the work?", a: "The SFU students who are with you on your first call are the people who build it." },
   { q: "How long does a project take?", a: "It depends on the scope. We agree on dates in the one-page plan before we start, and show you progress along the way." },
   { q: "What happens after launch?", a: "The domain, hosting and code are in your name, you get a short guide to making edits, and you can email us when something breaks." },
   { q: "What if we do not need custom software?", a: "Then we will say so. If an off-the-shelf tool fits, we will help you set it up instead." },

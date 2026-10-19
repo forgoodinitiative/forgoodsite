@@ -44,7 +44,7 @@ export default function Home() {
           <div className="pfg-section-inner">
             <div className="pfg-headrow">
               <SectionHeader id="team-title" index="04" label="Team" light="Built by" title="SFU engineers."
-                lede="Four SFU students who take each project from the first call to launch." />
+                lede="SFU students who take each project from the first call to launch." />
               <Button variant="primary" arrow href={JOIN_HREF}>Join the team</Button>
             </div>
           </div>
